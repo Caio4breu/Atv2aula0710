@@ -10,8 +10,5 @@ public class LojaMain {
         
         produto1.exibirInfo();
         produto1.venderProduto(produto1.getUnid());
-        // do {
-            
-        // } while (!repetir);
     }
 }

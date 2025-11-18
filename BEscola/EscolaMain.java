@@ -6,8 +6,8 @@ public class EscolaMain {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         
-        Aluno aluno1 = new Aluno("Agatha", 25, "123456");
-        Aluno aluno2 = new Aluno("Carmilla", 25, "123456");
+        Aluno aluno1 = new Aluno("Agatha", 38, "123456");
+        Aluno aluno2 = new Aluno("Carmilla", 25, "654321");
 
         System.out.println("\n[----- DADOS DOS ALUNOS -----]");
         aluno1.exibirDados();
